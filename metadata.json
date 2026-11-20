@@ -1,0 +1,6 @@
+{
+  "name": "Retail Expiry Tracker",
+  "description": "Offline-first supermarket barcode scanning, master product management, and batch expiry date tracking PWA with offline OCR and Excel export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
